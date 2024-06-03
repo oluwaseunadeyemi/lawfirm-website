@@ -1,10 +1,10 @@
+
 .lk img{
     width: 25%;
 }
 .header{
-    display: inline-flex;
+    display: flex;
     padding-top: 20px;
-    justify-content: center;
     
 }
 .link a{
@@ -14,5 +14,16 @@
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     padding-left: 10px;
+}
+.link{
+    margin-right: 30px; 
+}
+.icon img{
+    width: 15px;
+    padding-left: 13px;
+    border-left: 1px solid #ebebeb;
+    border-right: 1px solid #ebebeb;
+    padding-right: 13px;
+    margin-left: 20px;
 }
 
