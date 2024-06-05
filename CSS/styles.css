@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Reddit+Mono:wght@200..900&display=swap');
 .lk img{
     width: 25%;
 }
@@ -8,10 +8,10 @@
     
 }
 .link a{
-    font-size: 10px;
+    font-size: 11px;
     text-decoration: none;
     color: #1c2e4f;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Playfair Display", serif;
     font-weight: 700;
     padding-left: 10px;
 }
@@ -26,4 +26,31 @@
     padding-right: 13px;
     margin-left: 20px;
 }
-
+.link a:hover{
+    color: #ac742c;
+    border-bottom: 1px solid #ac742c;
+}
+.slideshow-container img{
+    width: 100%;
+    padding-top: 20px;
+}
+.text{
+    color: white;
+    position: absolute;
+    left: 1%;
+    top: 50%;
+    padding: 1px;
+    text-align: left;
+    font-size: 25px;
+    border: none;
+}
+.text a{
+    text-decoration: none;
+    border: ipx solid #0c2444;
+    color: white;
+    background-color: #0c2444;
+    
+}
+.text a:hover{
+    background-color: #ac742c;
+}  
