@@ -105,12 +105,12 @@
     display: inline-flex;
     justify-content: space-around;
     /* margin-left: 30px; */
-    background-color: #f1eeeb;
+    /* background-color: #f1eeeb; */
     
   }
   .pic{
     display: inline-flex;
-    margin-left: 200px;
+    margin-left: 185px;
     padding-top: 50px;
   }
   .body2 p{
@@ -118,7 +118,7 @@
     line-height: 26px;
     color: #0c2444;
     padding-left: 30px;
-  }
+}
 .pic img{
     padding-left: 20px;
 }
@@ -127,4 +127,20 @@
     color: #0c2444;
     font-family: "Jost", sans-serif;
     padding-left: 30px;
+}
+.body1{
+    background-color: #f1eeeb;
+    height: 70vh;
+    
+}
+.body1 a{
+    text-decoration: none;
+    font-family: "Jost", sans-serif;
+    border: 1px solid black;
+    background-color: #0c2444;
+    color: white;
+    padding: 10px;
+    margin-left: 120px;
+    margin-top: 60px;
+    font-size: 15px;
 }
