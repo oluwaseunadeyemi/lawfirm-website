@@ -43,14 +43,26 @@
     text-align: left;
     font-size: 25px;
     border: none;
+   
+}
+.text h3{
+    text-shadow: 2px 2px  #ac742c;
 }
 .text a{
     text-decoration: none;
-    border: ipx solid #0c2444;
+    border: 1px solid black;
     color: white;
     background-color: #0c2444;
-    
+    outline: 5px solid #0c2444;
+    margin-left: 30px;
+    padding: 15px;
+    font-size: 20px;
 }
 .text a:hover{
     background-color: #ac742c;
+    color: #1c2e4f;
 }  
+.text a:active{
+    color: black;
+    background-color: white;
+}
