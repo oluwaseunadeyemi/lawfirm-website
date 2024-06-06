@@ -166,3 +166,31 @@
     text-decoration: none;
     color: #0c2444;
 }
+.text2 p{
+    font-size: 15px;
+    line-height: 26px;
+    padding-top: 20px;
+    font-family: "Jost", sans-serif;
+    color: #0c2444;
+}
+.text2 h3{
+    font-size: 25px;
+    color: #0c2444;
+    font-family: "Jost", sans-serif;
+}
+.text2 a{
+    text-decoration: none;
+    border: 1px solid #0c2444;
+    background-color: #0c2444;
+    margin-top: 30px;
+    padding: 15px;
+    color: white;
+
+}
+.a{
+    margin-top: 30px;
+}
+.a2{
+    margin-top: 50px;
+    margin-left: 80px;
+}
