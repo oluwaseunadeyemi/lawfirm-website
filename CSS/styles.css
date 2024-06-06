@@ -226,7 +226,7 @@
 }
 .body5 h1{
     text-align: center;
-    margin: 30px;
+    padding: 30px;
 }
 .text3 a{
     text-decoration: none;
@@ -241,4 +241,31 @@
 .text3 a:hover{
     background-color: #ceced0;
     color: black;
+}
+.contact{
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 60px;
+}
+.body5{
+    background-color: #f4f4f4; 
+}
+.other h3{
+    font-size: 30px;
+    font-family: "Jost", sans-serif;
+}
+.other p{
+    font-size: 20px;
+    font-family: "Jost", sans-serif;
+}
+.other a{
+    text-decoration: none;
+    outline: 2px solid #0c2444;
+    background-color: #0c2444;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+}
+.other a:hover{
+    background-color: black;
+    
 }
