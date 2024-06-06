@@ -200,4 +200,31 @@
 }
 .body4{
     padding-top: 40px;
+    object-fit: contain;
+    width: 100%;
+}
+.action{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 20px;
+}
+.action img{
+    width: 70%;
+}
+.text3{
+    position: relative;
+    bottom: 300px;
+    padding-left: 10px;
+}
+.text3 h3{
+    font-size: 30px;
+    font-family: "Jost", sans-serif;
+}
+.text3 p{
+    font-size: 20px;
+    font-family: "Jost", sans-serif;
+}
+.body5 h1{
+    text-align: center;
+    margin: 30px;
 }
