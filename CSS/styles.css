@@ -83,8 +83,9 @@
     border: 1px solid #ccc;
     /* float: left; */
     width: 380px;
+    /* box-shadow: 10px 10px 5px 12px rgb(241, 240, 240); */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
-  
 .gallery:hover {
     border: 1px solid #777;
   }
@@ -100,6 +101,8 @@
     color: black;
     font-family: "Jost", sans-serif;
     font-weight: 500;
+    
+    
   }
   .body2{
     display: inline-flex;
@@ -131,6 +134,7 @@
 .body1{
     background-color: #f1eeeb;
     height: 70vh;
+    margin-top: 100px;
     
 }
 .body1 a{
@@ -193,4 +197,7 @@
 .a2{
     margin-top: 50px;
     margin-left: 80px;
+}
+.body4{
+    padding-top: 40px;
 }
